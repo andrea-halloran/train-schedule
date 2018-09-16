@@ -1,0 +1,34 @@
+.jumbotron{
+    background-color: black;  
+    color: white;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 1000px; 
+    text-align: left; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.form1{
+    width: 1000px; 
+    height: 450px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    border: 1px solid black; 
+}
+
+form{
+    width: 900px; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+
+
+
+
+
